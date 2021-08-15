@@ -17,7 +17,7 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: src/data/navigation.json
+  path: src/data/site.json
   label: Navigation
 upload_dir: src/images
 public_path: "/images"
