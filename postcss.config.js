@@ -2,6 +2,7 @@ const autoprefixer = require('autoprefixer');
 const postcssColorMod = require('postcss-color-mod-function');
 const postcssPresetEnv = require('postcss-preset-env');
 const atImport = require('postcss-import');
+const tailwindcss = require('tailwindcss');
 
 const plugins = [
   atImport,
@@ -11,9 +12,11 @@ const plugins = [
     preserve: true,
     features: {
       'custom-properties': true,
+      'focus-within-pseudo-class': false,
     },
   }),
   postcssColorMod,
+  tailwindcss,
 ];
 
 const isDev = process.env.APP_ENV === 'development';
