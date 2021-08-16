@@ -21,6 +21,9 @@ module.exports = {
     minimize: !isDev,
     minimizer: [new TerserPlugin({ parallel: true })],
   },
+  performance: {
+    hints: false,
+  },
 
   module: {
     rules: [
