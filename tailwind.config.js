@@ -6,7 +6,7 @@ module.exports = {
     './src/**/*.njk',
     './src/*.njk',
   ],
-  darkMode: class, // or 'media' or 'class'
+  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
   },
