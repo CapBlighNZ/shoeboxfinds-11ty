@@ -5,4 +5,6 @@ title: Homepage
 ---
 # Welcome to Shoebox Finds
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Our goal is to provide New Zealand collectors products at fair prices while also providing exceptional customer service.
+
+Whether you are looking for sports cards, gaming cards, comics, or autographed memorabilia, our dedicated staff of professionals is here to assist you with your collecting need
