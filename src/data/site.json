@@ -10,6 +10,11 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
+      "text": "News",
+      "url": "/hobby-news",
+      "external": ""
+    },
+    {
       "text": "Blog",
       "url": "/blog",
       "external": false
