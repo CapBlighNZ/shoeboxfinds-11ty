@@ -1,9 +1,9 @@
 ---
-permalink: posts/{{ title | slug }}/index.html
+permalink: "/news"
 title: Hobby News
 date: ''
 tags: []
-description: ''
+description: Hobby News
 name: news
 image: ''
 layout: ''
