@@ -11,9 +11,3 @@ fields:
 - type: text
   name: permalink
   label: permalink
-- type: datetime
-  name: date
-  label: date
-- type: list
-  name: tags
-  label: tags
