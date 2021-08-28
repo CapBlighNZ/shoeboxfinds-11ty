@@ -8,7 +8,12 @@ module.exports = {
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'smoky-gray': '#2c2e31',
+        'smoky-white': '#fffffe',
+      }
+    },
   },
   variants: {
     extend: {},
