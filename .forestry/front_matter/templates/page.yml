@@ -1,0 +1,19 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: permalink
+  label: permalink
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
