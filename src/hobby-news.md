@@ -6,6 +6,6 @@ tags: []
 description: Hobby News
 name: News
 image: ''
-layout: about.njk
+layout: base.njk
 
 ---
