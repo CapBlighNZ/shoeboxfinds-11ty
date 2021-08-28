@@ -1,6 +1,6 @@
 ---
 permalink: "/news/"
-title: Hobby News
+title: News
 date: ''
 tags: []
 description: Hobby News
