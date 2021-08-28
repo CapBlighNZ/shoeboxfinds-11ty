@@ -1,9 +1,12 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
 title: Hobby News
-date: 
+date: ''
 tags: []
 description: ''
+name: news
+image: ''
+layout: ''
 
 ---
 Hobby News
