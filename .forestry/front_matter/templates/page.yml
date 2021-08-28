@@ -4,10 +4,10 @@ hide_body: false
 fields:
 - type: text
   name: name
-  label: title
+  label: name
 - type: text
   name: title
-  label: friendly title
+  label: title
 - type: text
   name: layout
   label: layout
