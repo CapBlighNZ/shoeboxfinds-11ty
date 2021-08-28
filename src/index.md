@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Shoebox Finds
+title: Homepage
 
 ---
 # Welcome to Shoebox Finds
