@@ -1,12 +1,12 @@
 ---
-permalink: "/news"
+permalink: "/news/"
 title: Hobby News
 date: ''
 tags: []
 description: Hobby News
 name: news
 image: ''
-layout: ''
+layout: base.njk
 
 ---
 Hobby News
