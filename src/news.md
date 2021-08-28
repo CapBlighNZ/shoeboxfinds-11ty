@@ -5,3 +5,4 @@ layout: base.njk
 image: ''
 
 ---
+# Hobby News
