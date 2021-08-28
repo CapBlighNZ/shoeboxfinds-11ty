@@ -1,5 +1,5 @@
 ---
-permalink: "/news/"
+permalink: ''
 title: News
 date: ''
 tags: []
