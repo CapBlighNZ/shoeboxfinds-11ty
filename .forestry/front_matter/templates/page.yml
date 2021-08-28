@@ -3,14 +3,14 @@ label: Page
 hide_body: false
 fields:
 - type: text
-  name: title
+  name: name
   label: title
+- type: text
+  name: title
+  label: friendly title
 - type: text
   name: layout
   label: layout
-- type: text
-  name: name
-  label: name
 - type: text
   name: image
   label: image
