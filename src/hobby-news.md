@@ -4,7 +4,7 @@ title: News
 date: ''
 tags: []
 description: Hobby News
-name: news
+name: Hobby News
 image: ''
 layout: about.njk
 
