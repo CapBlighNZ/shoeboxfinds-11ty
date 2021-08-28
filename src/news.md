@@ -1,8 +1,8 @@
 ---
 name: Hobby News
 title: news
-layout: base.njk
+layout: page.njk
 image: ''
 
 ---
-# Hobby News
+test
