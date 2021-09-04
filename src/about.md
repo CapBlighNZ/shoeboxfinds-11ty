@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about.njk
-name: Shoebox Finds
+name: About
 image: ''
 
 ---

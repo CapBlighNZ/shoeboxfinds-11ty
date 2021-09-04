@@ -45,6 +45,12 @@
 
 }
 
+.nav__list a.current {
+    color: rgb(41, 41, 41);
+  text-decoration: none;
+
+}
+
 .nav__list li {
   margin-right: 2rem;
 }
