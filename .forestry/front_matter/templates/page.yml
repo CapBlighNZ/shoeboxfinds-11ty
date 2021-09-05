@@ -8,14 +8,15 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: layout
-  label: layout
 - name: image
   type: text
   config:
     required: false
   label: image
+  default: "/images/"
+- type: text
+  name: layout
+  label: layout
 pages:
 - src/about.md
 - src/resources.md
