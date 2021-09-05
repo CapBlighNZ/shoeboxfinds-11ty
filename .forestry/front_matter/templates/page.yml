@@ -7,7 +7,7 @@ fields:
   label: name
 - type: text
   name: title
-  label: title
+  label: title / slug
 - name: image
   type: text
   config:
