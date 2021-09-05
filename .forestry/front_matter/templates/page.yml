@@ -17,4 +17,5 @@ fields:
   name: layout
   label: layout
 pages:
+- src/about.md
 - src/resources.md
