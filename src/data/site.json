@@ -34,16 +34,19 @@
     {
       "text": "Trade Me",
       "url": "https://instagram.com/",
+      "desc": "A utility-first CSS framework for rapidly building custom designs.",
       "external": true
     },
     {
       "text": "Reddit",
       "url": "https://github.com/yinkakun/eleventy-duo",
+      "desc": "A utility-first CSS framework for rapidly building custom designs.",
       "external": true
     },
     {
       "text": "Twitter",
       "url": "https://twitter.com/",
+      "desc": "A utility-first CSS framework for rapidly building custom designs.",
       "external": true
     }
   ],

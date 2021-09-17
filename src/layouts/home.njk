@@ -17,7 +17,11 @@ layout: base
           {% if item.external %}
             {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
           {% endif %}
-
+<!--<a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400">
+                <h3>{{item.text}}
+                    →</h3>
+                <p>{{item.desc}}</p>
+            </a> -->
           <li>
             <a href="{{ item.url | url }}" {{ externalAttribute | safe }}>{{ item.text }}</a>
           </li>
