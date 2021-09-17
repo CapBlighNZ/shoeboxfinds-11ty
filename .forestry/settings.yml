@@ -20,9 +20,11 @@ sections:
   create: documents
   match: "*.md"
   new_doc_ext: md
+- type: heading
+  label: Globals
 - type: document
   path: src/data/site.json
-  label: Globals
+  label: Site Settings
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
