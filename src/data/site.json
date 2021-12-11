@@ -10,18 +10,13 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": ""
+      "text": "About",
+      "url": "/about/",
+      "external": false
     },
     {
       "text": "Blog",
       "url": "/blog/",
-      "external": false
-    },
-    {
-      "text": "About",
-      "url": "/about/",
       "external": false
     }
   ],
