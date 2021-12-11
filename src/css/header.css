@@ -13,17 +13,20 @@
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  max-width: 48.75rem;
-  padding: 1.25rem 1rem;
+  max-width: 58.75rem;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-bottom: 1px solid rgba(230, 230, 230, 1);
 }
 
 .site-title {
   font-size: var(--text-xl);
-
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .site-title a {
-  color: rgb(117, 117, 117);
+  color: rgb(6 6 6);
   text-decoration: none;
 }
 
@@ -36,19 +39,15 @@
   justify-content: space-around;
   list-style: none;
   font-size: var(--text-base);
-
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .nav__list a {
   color: rgb(117, 117, 117);
   text-decoration: none;
-
-}
-
-.nav__list a.current {
-    color: rgb(41, 41, 41);
-  text-decoration: none;
-
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .nav__list li {

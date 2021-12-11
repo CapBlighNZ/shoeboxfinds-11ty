@@ -10,7 +10,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
 
-
     <title>
       {{  title  | escape }}
       {% if title %}
@@ -49,27 +48,22 @@
       <meta property="og:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
       <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
     {% endif %}
-    <script defer src="https://unpkg.com/alpinejs@3.2.3/dist/cdn.min.js"></script>
+
     {# Add mermaid -- start #}
       <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
       <script>mermaid.initialize({startOnLoad:true});</script>
     {# Add mermaid -- end #}
   </head>
-  <body class="antialiased bg-body text-body font-body" >
-    
+  <body>
     <div class="layout-wrapper">
-  
-      <header class="header border-b border-solid border-gray-200">
+
+      <header class="header">
         <div class="header__content">
-         
-          <h1 class="site-title"> 
-           
+          <h1 class="site-title">
             <a href={{ "/" | url }}>
-           
-           
               {{site.name}}
             </a>
-          </h1> 
+          </h1>
 
           {% if site.headerLinks %}
             <nav class="nav">
@@ -83,7 +77,7 @@
                   {% endif %}
 
                   {% if page.url == item.url %}
-                    {% set currentAttribute = 'aria-current="page"  class="current"' %}
+                    {% set currentAttribute = 'aria-current="page"' %}
                   {% endif %}
 
                   <li class="nav-item">
@@ -99,7 +93,6 @@
       </header>
 
       <main class="main">
-      
         {{ content | safe }}
       </main>
 
