@@ -1,6 +1,6 @@
 ---
-title: Yet another simple post
-date: 2020-10-29
+title: Evgeny Kuznetsov 2018-19 Upper Deck Premier Silver Spectrum
+date: 2022-01-02T11:00:00Z
 tags:
 - demo-content
 - simple-post
