@@ -7,7 +7,7 @@ title: Homepage
 
 Whether you are looking for sports cards, gaming cards, comics, or autographed memorabilia, our dedicated staff of professionals is here to assist you with your collecting need
 
-<div id='collection-component-1645615463900'></div>
+<div id='collection-component-1645615675381'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -36,17 +36,17 @@ Whether you are looking for sports cards, gaming cards, comics, or autographed m
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: '401943331058',
-        node: document.getElementById('collection-component-1645615463900'),
+        node: document.getElementById('collection-component-1645615675381'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
-          "max-width": "calc(33.33333% - 30px)",
-          "margin-left": "30px",
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
           "margin-bottom": "50px",
-          "width": "calc(33.33333% - 30px)"
+          "width": "calc(25% - 20px)"
         },
         "img": {
           "height": "calc(100% - 15px)",
@@ -93,7 +93,7 @@ Whether you are looking for sports cards, gaming cards, comics, or autographed m
     "styles": {
       "products": {
         "@media (min-width: 601px)": {
-          "margin-left": "-30px"
+          "margin-left": "-20px"
         }
       }
     }
